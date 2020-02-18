@@ -139,5 +139,5 @@ Percentage of the requests served within a certain time (ms)
 
 ## Conclusion
 
-Pretty straighforward to build and deploy a container to Cloud Run. The response time can sometimes be pretty slow, 
+Pretty straightforward to build and deploy a container to Cloud Run. The response time can sometimes be pretty slow, 
 but overall if the container is small and quick to start it should be fine.
