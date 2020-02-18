@@ -59,7 +59,7 @@ CMD [ "npm", "run", "start:prod" ]
 I used Cloud Build to build the docker image
 
 ```bash
-gcloud builds submit --tag gcr.io/${PROJECT_ID}/helloworld
+$ gcloud builds submit --tag gcr.io/${PROJECT_ID}/helloworld
 ```
 
 Then deployed it:
