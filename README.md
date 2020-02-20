@@ -4,6 +4,8 @@
 
 I wanted to test running [Nest](https://github.com/nestjs/nest) on Cloud Run and run some benchmarks.
 
+[![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run)
+
 ## Creation of the project
 
 ```bash
